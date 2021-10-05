@@ -1,0 +1,13 @@
+{
+  "appId": "com.eloprey.angularionic",
+  "appName": "DeutscheBandB",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

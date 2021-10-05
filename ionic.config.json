@@ -1,0 +1,7 @@
+{
+  "name": "DeutscheBandB",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
